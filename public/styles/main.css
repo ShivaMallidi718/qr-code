@@ -1,0 +1,20 @@
+body{
+    background-color: #393E46;
+    text-align: center;
+}
+h1{
+    color: #4ECCA3;
+}
+#input,#submit,img,#download{
+    padding: 10px;
+    margin: 10px;
+}
+#input{
+    width: 70%;
+}
+#submit,#download{
+    border-radius: 10px;
+    border: none;
+    font-size: 1.1em;
+    background-color: #4ECCA3;
+}
